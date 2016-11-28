@@ -1,3 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="0 0 120 160"><defs><path d="M39.38 0L78.75 0L40.98 160L0 160L39.38 0Z" id="S721yiY8xt"></path><path d="M78.18 0L40 0L81.82 160L120 160L78.18 0Z" id="koyvwKX6kS"></path></defs><g visibility="inherit"><g visibility="inherit"><g><g><filter id="shadow9782649" x="-9" y="-9" width="97.75" height="179" filterUnits="userSpaceOnUse" primitiveUnits="userSpaceOnUse"><feFlood></feFlood><feComposite in2="SourceAlpha" operator="in"></feComposite><feGaussianBlur stdDeviation="1"></feGaussianBlur><feOffset dx="1" dy="1" result="afterOffset"></feOffset><feFlood flood-color="#000000" flood-opacity="0.5"></feFlood><feComposite in2="afterOffset" operator="in"></feComposite><feMorphology operator="dilate" radius="1"></feMorphology><feComposite in2="SourceAlpha" operator="out"></feComposite></filter><path d="M39.38 0L78.75 0L40.98 160L0 160L39.38 0Z" id="lD5d9dP6jX" fill="white" fill-opacity="1" filter="url(#shadow9782649)"></path></g><use xlink:href="#S721yiY8xt" opacity="1" fill="#0d47a1" fill-opacity="1"></use></g><g><g><filter id="shadow15990653" x="31" y="-9" width="99" height="179" filterUnits="userSpaceOnUse" primitiveUnits="userSpaceOnUse"><feFlood></feFlood><feComposite in2="SourceAlpha" operator="in"></feComposite><feGaussianBlur stdDeviation="1"></feGaussianBlur><feOffset dx="1" dy="1" result="afterOffset"></feOffset><feFlood flood-color="#000000" flood-opacity="0.5"></feFlood><feComposite in2="afterOffset" operator="in"></feComposite><feMorphology operator="dilate" radius="1"></feMorphology><feComposite in2="SourceAlpha" operator="out"></feComposite></filter><path d="M78.18 0L40 0L81.82 160L120 160L78.18 0Z" id="zkLAWnBFxy" fill="white" fill-opacity="1" filter="url(#shadow15990653)"></path></g><use xlink:href="#koyvwKX6kS" opacity="1" fill="#2095f3" fill-opacity="1"></use></g></g></g></svg>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="0 0 120 160">
+  <defs>
+    <path d="M40 0L80 0L40 160L0 160L40 0Z" id="S721yiY8xt"></path>
+    <path d="M80 0L40 0L80 160L120 160L80 0Z" id="koyvwKX6kS"></path>
+  </defs>
+  <g visibility="inherit">
+    <g visibility="inherit">
+      <g>
+        <g>
+          <filter id="shadow9782649" x="0" y="0" width="100" height="180" filterUnits="userSpaceOnUse" primitiveUnits="userSpaceOnUse">
+            <feGaussianBlur stdDeviation="1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" result="afterOffset"></feOffset>
+            <feFlood flood-color="#000000" flood-opacity="0.5"></feFlood>
+            <feComposite in2="afterOffset" operator="in"></feComposite>
+            <feMorphology operator="dilate" radius="0"></feMorphology>
+          </filter>
+          <path d="M40 0L80 0L40 160L0 160L40 0Z" id="lD5d9dP6jX" fill="white" fill-opacity="1" filter="url(#shadow9782649)"></path>
+        </g>
+        <use xlink:href="#S721yiY8xt" opacity="1" fill="#0d47a1" fill-opacity="1"></use>
+      </g>
+      <g>
+        <g>
+          <filter id="shadow15990653" x="30" y="0" width="100" height="180" filterUnits="userSpaceOnUse" primitiveUnits="userSpaceOnUse">
+            <feGaussianBlur stdDeviation="1"></feGaussianBlur>
+            <feOffset dx="1" dy="1" result="afterOffset"></feOffset>
+            <feFlood flood-color="#000000" flood-opacity="0.5"></feFlood>
+            <feComposite in2="afterOffset" operator="in"></feComposite>
+            <feMorphology operator="dilate" radius="1"></feMorphology>
+          </filter>
+          <path d="M80 0L40 0L80 160L120 160L80 0Z" id="zkLAWnBFxy" fill="white" fill-opacity="1" filter="url(#shadow15990653)"></path>
+        </g>
+        <use xlink:href="#koyvwKX6kS" opacity="1" fill="#2095f3" fill-opacity="1"></use>
+      </g>
+    </g>
+  </g>
+</svg>

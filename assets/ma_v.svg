@@ -1,3 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="0 0 120 160"><defs><path d="M80.62 160L41.25 160L79.02 0L120 0L80.62 160Z" id="HiE1Bxosac"></path><path d="M41.82 160L80 160L38.18 0L0 0L41.82 160Z" id="oiyLfNWbpi"></path></defs><g visibility="inherit"><g visibility="inherit"><g><g><filter id="shadow16658145" x="32.25" y="-9" width="97.75" height="179" filterUnits="userSpaceOnUse" primitiveUnits="userSpaceOnUse"><feFlood></feFlood><feComposite in2="SourceAlpha" operator="in"></feComposite><feGaussianBlur stdDeviation="1"></feGaussianBlur><feOffset dx="1" dy="1" result="afterOffset"></feOffset><feFlood flood-color="#000000" flood-opacity="0.5"></feFlood><feComposite in2="afterOffset" operator="in"></feComposite><feMorphology operator="dilate" radius="1"></feMorphology><feComposite in2="SourceAlpha" operator="out"></feComposite></filter><path d="M80.62 160L41.25 160L79.02 0L120 0L80.62 160Z" id="LtbNIFA2mM" fill="white" fill-opacity="1" filter="url(#shadow16658145)"></path></g><use xlink:href="#HiE1Bxosac" opacity="1" fill="#0d47a1" fill-opacity="1"></use></g><g><g><filter id="shadow15063737" x="-9" y="-9" width="99" height="179" filterUnits="userSpaceOnUse" primitiveUnits="userSpaceOnUse"><feFlood></feFlood><feComposite in2="SourceAlpha" operator="in"></feComposite><feGaussianBlur stdDeviation="1"></feGaussianBlur><feOffset dx="1" dy="1" result="afterOffset"></feOffset><feFlood flood-color="#000000" flood-opacity="0.5"></feFlood><feComposite in2="afterOffset" operator="in"></feComposite><feMorphology operator="dilate" radius="1"></feMorphology><feComposite in2="SourceAlpha" operator="out"></feComposite></filter><path d="M41.82 160L80 160L38.18 0L0 0L41.82 160Z" id="ebyp2ERPJp" fill="white" fill-opacity="1" filter="url(#shadow15063737)"></path></g><use xlink:href="#oiyLfNWbpi" opacity="1" fill="#2095f3" fill-opacity="1"></use></g></g></g></svg>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="0 0 120 160">
+    <defs>
+        <path d="M80.62 160L41.25 160L79.02 0L120 0L80.62 160Z" id="HiE1Bxosac"></path>
+        <path d="M41.82 160L80 160L38.18 0L0 0L41.82 160Z" id="oiyLfNWbpi"></path>
+    </defs>
+    <g visibility="inherit">
+        <g visibility="inherit">
+            <g>
+                <g>
+                    <filter id="shadow16658145" x="32.25" y="-9" width="97.75" height="179" filterUnits="userSpaceOnUse" primitiveUnits="userSpaceOnUse">
+                        <feGaussianBlur stdDeviation="1"></feGaussianBlur>
+                        <feOffset dx="1" dy="1" result="afterOffset"></feOffset>
+                        <feFlood flood-color="#000000" flood-opacity="0.5"></feFlood>
+                        <feComposite in2="afterOffset" operator="in"></feComposite>
+                        <feMorphology operator="dilate" radius="1"></feMorphology>
+                    </filter>
+                    <path d="M80.62 160L41.25 160L79.02 0L120 0L80.62 160Z" id="LtbNIFA2mM" fill="white" fill-opacity="1" filter="url(#shadow16658145)"></path>
+                </g>
+                <use xlink:href="#HiE1Bxosac" opacity="1" fill="#0d47a1" fill-opacity="1"></use>
+            </g>
+            <g>
+                <g>
+                    <filter id="shadow15063737" x="-9" y="-9" width="99" height="179" filterUnits="userSpaceOnUse" primitiveUnits="userSpaceOnUse">
+                        <feGaussianBlur stdDeviation="1"></feGaussianBlur>
+                        <feOffset dx="1" dy="1" result="afterOffset"></feOffset>
+                        <feFlood flood-color="#000000" flood-opacity="0.5"></feFlood>
+                        <feComposite in2="afterOffset" operator="in"></feComposite>
+                        <feMorphology operator="dilate" radius="1"></feMorphology>
+                    </filter>
+                    <path d="M41.82 160L80 160L38.18 0L0 0L41.82 160Z" id="ebyp2ERPJp" fill="white" fill-opacity="1" filter="url(#shadow15063737)"></path>
+                </g>
+                <use xlink:href="#oiyLfNWbpi" opacity="1" fill="#2095f3" fill-opacity="1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
