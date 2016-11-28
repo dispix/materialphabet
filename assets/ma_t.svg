@@ -1,3 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="0 0 120 160"><defs><path d="M80 0L40 0L40 160L80 160L80 0Z" id="Zr5oNJgZbU"></path><path d="M160 0L160 40L40 40L40 0L160 0Z" id="h9Q6ZWYGZh"></path></defs><g visibility="inherit"><g visibility="inherit"><g><g><filter id="shadow12112976" x="33" y="-7" width="54" height="174" filterUnits="userSpaceOnUse" primitiveUnits="userSpaceOnUse"><feFlood></feFlood><feComposite in2="SourceAlpha" operator="in"></feComposite><feGaussianBlur stdDeviation="1"></feGaussianBlur><feOffset dx="0" dy="0" result="afterOffset"></feOffset><feFlood flood-color="#000000" flood-opacity="0.5"></feFlood><feComposite in2="afterOffset" operator="in"></feComposite><feMorphology operator="dilate" radius="0"></feMorphology><feComposite in2="SourceAlpha" operator="out"></feComposite></filter><path d="M80 0L40 0L40 160L80 160L80 0Z" id="XBE9tCih53" fill="white" fill-opacity="1" filter="url(#shadow12112976)"></path></g><use xlink:href="#Zr5oNJgZbU" opacity="1" fill="#0d47a1" fill-opacity="1"></use></g><g transform="matrix(1 0 0 1 -40 0)" vector-effect="non-scaling-stroke"><g><filter id="shadow8561085" x="31" y="-9" width="139" height="59" filterUnits="userSpaceOnUse" primitiveUnits="userSpaceOnUse"><feFlood></feFlood><feComposite in2="SourceAlpha" operator="in"></feComposite><feGaussianBlur stdDeviation="1"></feGaussianBlur><feOffset dx="1" dy="1" result="afterOffset"></feOffset><feFlood flood-color="#000000" flood-opacity="0.5"></feFlood><feComposite in2="afterOffset" operator="in"></feComposite><feMorphology operator="dilate" radius="1"></feMorphology><feComposite in2="SourceAlpha" operator="out"></feComposite></filter><path d="M160 0L160 40L40 40L40 0L160 0Z" id="A3qnVF6NTN" fill="white" fill-opacity="1" filter="url(#shadow8561085)"></path></g><use xlink:href="#h9Q6ZWYGZh" opacity="1" fill="#2095f3" fill-opacity="1"></use></g></g></g></svg>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="0 0 120 160">
+    <defs>
+        <path d="M80 0L40 0L40 160L80 160L80 0Z" id="Zr5oNJgZbU"></path>
+        <path d="M160 0L160 40L40 40L40 0L160 0Z" id="h9Q6ZWYGZh"></path>
+    </defs>
+    <g visibility="inherit">
+        <g visibility="inherit">
+            <g>
+                <g>
+                    <filter id="shadow12112976" x="33" y="-7" width="54" height="174" filterUnits="userSpaceOnUse" primitiveUnits="userSpaceOnUse">
+                        <feGaussianBlur stdDeviation="1"></feGaussianBlur>
+                        <feOffset dx="0" dy="0" result="afterOffset"></feOffset>
+                        <feFlood flood-color="#000000" flood-opacity="0.5"></feFlood>
+                        <feComposite in2="afterOffset" operator="in"></feComposite>
+                        <feMorphology operator="dilate" radius="0"></feMorphology>
+                    </filter>
+                    <path d="M80 0L40 0L40 160L80 160L80 0Z" id="XBE9tCih53" fill="white" fill-opacity="1" filter="url(#shadow12112976)"></path>
+                </g>
+                <use xlink:href="#Zr5oNJgZbU" opacity="1" fill="#0d47a1" fill-opacity="1"></use>
+            </g>
+            <g transform="matrix(1 0 0 1 -40 0)" vector-effect="non-scaling-stroke">
+                <g>
+                    <filter id="shadow8561085" x="31" y="-9" width="139" height="59" filterUnits="userSpaceOnUse" primitiveUnits="userSpaceOnUse">
+                        <feGaussianBlur stdDeviation="1"></feGaussianBlur>
+                        <feOffset dx="1" dy="1" result="afterOffset"></feOffset>
+                        <feFlood flood-color="#000000" flood-opacity="0.5"></feFlood>
+                        <feComposite in2="afterOffset" operator="in"></feComposite>
+                        <feMorphology operator="dilate" radius="1"></feMorphology>
+                    </filter>
+                    <path d="M160 0L160 40L40 40L40 0L160 0Z" id="A3qnVF6NTN" fill="white" fill-opacity="1" filter="url(#shadow8561085)"></path>
+                </g>
+                <use xlink:href="#h9Q6ZWYGZh" opacity="1" fill="#2095f3" fill-opacity="1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,3 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="0 0 120 160"><defs><path d="M100 160L40 160L40 120L100 120L100 160Z" id="G1CNvWTOdv"></path><path d="M40 160L40 0L0 0L0 160L40 160Z" id="hstABfokNe"></path></defs><g visibility="inherit"><g visibility="inherit"><g><g><filter id="shadow12254332" x="33" y="113" width="74" height="54" filterUnits="userSpaceOnUse" primitiveUnits="userSpaceOnUse"><feFlood></feFlood><feComposite in2="SourceAlpha" operator="in"></feComposite><feGaussianBlur stdDeviation="1"></feGaussianBlur><feOffset dx="0" dy="0" result="afterOffset"></feOffset><feFlood flood-color="#000000" flood-opacity="0.5"></feFlood><feComposite in2="afterOffset" operator="in"></feComposite><feMorphology operator="dilate" radius="0"></feMorphology><feComposite in2="SourceAlpha" operator="out"></feComposite></filter><path d="M100 160L40 160L40 120L100 120L100 160Z" id="TBqc8H5845" fill="white" fill-opacity="1" filter="url(#shadow12254332)"></path></g><use xlink:href="#G1CNvWTOdv" opacity="1" fill="#0d47a1" fill-opacity="1"></use></g><g><g><filter id="shadow7184836" x="-9" y="-9" width="59" height="179" filterUnits="userSpaceOnUse" primitiveUnits="userSpaceOnUse"><feFlood></feFlood><feComposite in2="SourceAlpha" operator="in"></feComposite><feGaussianBlur stdDeviation="1"></feGaussianBlur><feOffset dx="1" dy="1" result="afterOffset"></feOffset><feFlood flood-color="#000000" flood-opacity="0.5"></feFlood><feComposite in2="afterOffset" operator="in"></feComposite><feMorphology operator="dilate" radius="1"></feMorphology><feComposite in2="SourceAlpha" operator="out"></feComposite></filter><path d="M40 160L40 0L0 0L0 160L40 160Z" id="ckB9lTPzOK" fill="white" fill-opacity="1" filter="url(#shadow7184836)"></path></g><use xlink:href="#hstABfokNe" opacity="1" fill="#2095f3" fill-opacity="1"></use></g></g></g></svg>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="0 0 120 160">
+    <defs>
+        <path d="M100 160L40 160L40 120L100 120L100 160Z" id="G1CNvWTOdv"></path>
+        <path d="M40 160L40 0L0 0L0 160L40 160Z" id="hstABfokNe"></path>
+    </defs>
+    <g visibility="inherit">
+        <g visibility="inherit">
+            <g>
+                <g>
+                    <filter id="shadow12254332" x="33" y="113" width="74" height="54" filterUnits="userSpaceOnUse" primitiveUnits="userSpaceOnUse">
+                        <feGaussianBlur stdDeviation="1"></feGaussianBlur>
+                        <feOffset dx="0" dy="0" result="afterOffset"></feOffset>
+                        <feFlood flood-color="#000000" flood-opacity="0.5"></feFlood>
+                        <feComposite in2="afterOffset" operator="in"></feComposite>
+                        <feMorphology operator="dilate" radius="0"></feMorphology>
+                    </filter>
+                    <path d="M100 160L40 160L40 120L100 120L100 160Z" id="TBqc8H5845" fill="white" fill-opacity="1" filter="url(#shadow12254332)"></path>
+                </g>
+                <use xlink:href="#G1CNvWTOdv" opacity="1" fill="#0d47a1" fill-opacity="1"></use>
+            </g>
+            <g>
+                <g>
+                    <filter id="shadow7184836" x="-9" y="-9" width="59" height="179" filterUnits="userSpaceOnUse" primitiveUnits="userSpaceOnUse">
+                        <feGaussianBlur stdDeviation="1"></feGaussianBlur>
+                        <feOffset dx="1" dy="1" result="afterOffset"></feOffset>
+                        <feFlood flood-color="#000000" flood-opacity="0.5"></feFlood>
+                        <feComposite in2="afterOffset" operator="in"></feComposite>
+                        <feMorphology operator="dilate" radius="1"></feMorphology>
+                    </filter>
+                    <path d="M40 160L40 0L0 0L0 160L40 160Z" id="ckB9lTPzOK" fill="white" fill-opacity="1" filter="url(#shadow7184836)"></path>
+                </g>
+                <use xlink:href="#hstABfokNe" opacity="1" fill="#2095f3" fill-opacity="1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
