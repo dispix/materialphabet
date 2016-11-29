@@ -1,3 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="0 0 120 160"><defs><path d="M0 30L75 130L120 130L41.25 30L0 30Z" id="IlOXolMQN0"></path><path d="M0 30L0 0L120 0L120 30L0 30Z" id="L6g2XTgH8P"></path><path d="M0 130L0 160L120 160L120 130L0 130Z" id="md4xtCAg4n"></path></defs><g visibility="inherit"><g visibility="inherit"><g><g><filter id="shadow7365518" x="-7" y="23" width="134" height="114" filterUnits="userSpaceOnUse" primitiveUnits="userSpaceOnUse"><feFlood></feFlood><feComposite in2="SourceAlpha" operator="in"></feComposite><feGaussianBlur stdDeviation="1"></feGaussianBlur><feOffset dx="0" dy="0" result="afterOffset"></feOffset><feFlood flood-color="#000000" flood-opacity="0.5"></feFlood><feComposite in2="afterOffset" operator="in"></feComposite><feMorphology operator="dilate" radius="0"></feMorphology><feComposite in2="SourceAlpha" operator="out"></feComposite></filter><path d="M0 30L75 130L120 130L41.25 30L0 30Z" id="VftoFRNSp0" fill="white" fill-opacity="1" filter="url(#shadow7365518)"></path></g><use xlink:href="#IlOXolMQN0" opacity="1" fill="#0d47a1" fill-opacity="1"></use></g><g><g><filter id="shadow7330066" x="-9" y="-9" width="139" height="49" filterUnits="userSpaceOnUse" primitiveUnits="userSpaceOnUse"><feFlood></feFlood><feComposite in2="SourceAlpha" operator="in"></feComposite><feGaussianBlur stdDeviation="1"></feGaussianBlur><feOffset dx="1" dy="1" result="afterOffset"></feOffset><feFlood flood-color="#000000" flood-opacity="0.5"></feFlood><feComposite in2="afterOffset" operator="in"></feComposite><feMorphology operator="dilate" radius="1"></feMorphology><feComposite in2="SourceAlpha" operator="out"></feComposite></filter><path d="M0 30L0 0L120 0L120 30L0 30Z" id="UrvjV1Seqy" fill="white" fill-opacity="1" filter="url(#shadow7330066)"></path></g><use xlink:href="#L6g2XTgH8P" opacity="1" fill="#2095f3" fill-opacity="1"></use></g><g><g><filter id="shadow15371321" x="-9" y="121" width="139" height="49" filterUnits="userSpaceOnUse" primitiveUnits="userSpaceOnUse"><feFlood></feFlood><feComposite in2="SourceAlpha" operator="in"></feComposite><feGaussianBlur stdDeviation="1"></feGaussianBlur><feOffset dx="1" dy="1" result="afterOffset"></feOffset><feFlood flood-color="#000000" flood-opacity="0.5"></feFlood><feComposite in2="afterOffset" operator="in"></feComposite><feMorphology operator="dilate" radius="1"></feMorphology><feComposite in2="SourceAlpha" operator="out"></feComposite></filter><path d="M0 130L0 160L120 160L120 130L0 130Z" id="XCax27UooJ" fill="white" fill-opacity="1" filter="url(#shadow15371321)"></path></g><use xlink:href="#md4xtCAg4n" opacity="1" fill="#2095f3" fill-opacity="1"></use></g></g></g></svg>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="0 0 120 160">
+    <defs>
+        <path d="M0 30L80 130L120 130L40 30L0 30Z" id="IlOXolMQN0"></path>
+        <path d="M0 30L0 0L120 0L120 30L0 30Z" id="L6g2XTgH8P"></path>
+        <path d="M0 130L0 160L120 160L120 130L0 130Z" id="md4xtCAg4n"></path>
+    </defs>
+    <g visibility="inherit">
+        <g visibility="inherit">
+            <g>
+                <g>
+                    <filter id="shadow7365518" x="-7" y="23" width="134" height="114" filterUnits="userSpaceOnUse" primitiveUnits="userSpaceOnUse">
+                        <feGaussianBlur stdDeviation="1"></feGaussianBlur>
+                        <feOffset dx="0" dy="0" result="afterOffset"></feOffset>
+                        <feFlood flood-color="#000000" flood-opacity="0.5"></feFlood>
+                        <feComposite in2="afterOffset" operator="in"></feComposite>
+                        <feMorphology operator="dilate" radius="0"></feMorphology>
+                    </filter>
+                    <path d="M0 30L80 130L120 130L40 30L0 30Z" id="VftoFRNSp0" fill="white" fill-opacity="1" filter="url(#shadow7365518)"></path>
+                </g>
+                <use xlink:href="#IlOXolMQN0" opacity="1" fill="#0d47a1" fill-opacity="1"></use>
+            </g>
+            <g>
+                <g>
+                    <filter id="shadow7330066" x="-9" y="-9" width="139" height="49" filterUnits="userSpaceOnUse" primitiveUnits="userSpaceOnUse">
+                        <feGaussianBlur stdDeviation="1"></feGaussianBlur>
+                        <feOffset dx="1" dy="1" result="afterOffset"></feOffset>
+                        <feFlood flood-color="#000000" flood-opacity="0.5"></feFlood>
+                        <feComposite in2="afterOffset" operator="in"></feComposite>
+                        <feMorphology operator="dilate" radius="1"></feMorphology>
+                    </filter>
+                    <path d="M0 30L0 0L120 0L120 30L0 30Z" id="UrvjV1Seqy" fill="white" fill-opacity="1" filter="url(#shadow7330066)"></path>
+                </g>
+                <use xlink:href="#L6g2XTgH8P" opacity="1" fill="#2095f3" fill-opacity="1"></use>
+            </g>
+            <g>
+                <g>
+                    <filter id="shadow15371321" x="-9" y="121" width="139" height="49" filterUnits="userSpaceOnUse" primitiveUnits="userSpaceOnUse">
+                        <feGaussianBlur stdDeviation="1"></feGaussianBlur>
+                        <feOffset dx="1" dy="1" result="afterOffset"></feOffset>
+                        <feFlood flood-color="#000000" flood-opacity="0.5"></feFlood>
+                        <feComposite in2="afterOffset" operator="in"></feComposite>
+                        <feMorphology operator="dilate" radius="1"></feMorphology>
+                    </filter>
+                    <path d="M0 130L0 160L120 160L120 130L0 130Z" id="XCax27UooJ" fill="white" fill-opacity="1" filter="url(#shadow15371321)"></path>
+                </g>
+                <use xlink:href="#md4xtCAg4n" opacity="1" fill="#2095f3" fill-opacity="1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
